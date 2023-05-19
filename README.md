@@ -11,7 +11,7 @@ Key | Value
 Birthday | 07/06
 Favorite color | Blue
 Favorite food | Pasta pesto
-Pinneapple on pizza | :white_large_square
+Pinneapple on pizza | <li>- [ ] </li>
 
 ## Hobbies
 

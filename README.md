@@ -2,6 +2,7 @@
 
 *In my experience, there is no such thing as luck.*
 
+![self_picture](/IMG_0041-min.JPG)
 A (professional) photo of yourself (you can save the file in the repository next to the README file)
 
 ## Junior Web Developper learner at BeCode

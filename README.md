@@ -39,4 +39,4 @@ Thankfully, thats so light i don't even discovered it during 20 years.
 
 I discovered I am color blind at the age of 20 when I was watching a video of Dr. Nozman who was displaying color blind exercices.
 
-<< [Pietro]() || Robin || [Rui](https://github.com/ruisinhofilipe) >>
+<< [Pietro](https://github.com/Otto1808) || Robin || [Rui](https://github.com/ruisinhofilipe) >>

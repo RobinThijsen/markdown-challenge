@@ -4,8 +4,6 @@
 
 ![hello there](/hello_there.jpg)
 
-A (professional) photo of yourself (you can save the file in the repository next to the README file)
-
 ## Junior Web Developper learner at BeCode
 
 Key | Value
@@ -13,7 +11,7 @@ Key | Value
 Birthday | 07/06
 Favorite color | Blue
 Favorite food | Pasta pesto
-Pinneapple on pizza | [ ]
+Pinneapple on pizza | <ul><li>- [X]</li></ul>
 
 ## Hobbies
 
